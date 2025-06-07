@@ -1,4 +1,6 @@
-<!-- GitHub Profile README for itspodleeeee -->
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1133143606587862044/1136615190279569509/Techstag_Logo_Sample.png" alt="Techstag Logo" width="150" />
+</p>
 
 <h1 align="center">Hey there, I'm <a href="https://github.com/itspodleeeee" target="_blank">itspodleeeee</a> 👋</h1>
 
@@ -19,9 +21,27 @@ My goal? Become a skilled and ethical **Cybersecurity Analyst**.
 
 ### 🧰 Tech Stack & Tools
 
-- 💻 Languages: Python • C • C++ • JavaScript • PHP • Bash/Shell • SQL • MongoDB • HTML • CSS  
-- 🧪 Tools & OS: Parrot OS • Nmap • Wireshark • Metasploit • Burp Suite • Git • Postman  
-- 🌐 Knowledge Areas: Networking Fundamentals • Packet Sniffing • Port Scanning • Web Security
+<p align="left">
+  <img src="https://icon.icepanel.io/Technology/svg/Python.svg" alt="Python" width="40" height="40" />
+  <img src="https://icon.icepanel.io/Technology/svg/C.svg" alt="C" width="40" height="40" />
+  <img src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" alt="C++" width="40" height="40" />
+  <img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://icon.icepanel.io/Technology/svg/PHP.svg" alt="PHP" width="40" height="40" />
+  <img src="https://icon.icepanel.io/Technology/svg/Bash.svg" alt="Bash/Shell" width="40" height="40" />
+  <img src="https://img.icons8.com/?size=96&id=J6KcaRLsTgpZ&format=png" alt="SQL" width="40" height="40" />
+  <img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" alt="MongoDB" width="40" height="40" />
+  <img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" alt="HTML" width="40" height="40" />
+  <img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" alt="CSS" width="40" height="40" />
+  <img src="https://img.icons8.com/?size=100&id=sA3Bx9WPvcNg&format=png&color=000000" alt="Parrot OS Linux" width="40" height="40" />
+  <img src="https://img.icons8.com/?size=100&id=9b5wowKIlo9d&format=png&color=000000" alt="Nmap" width="40" height="40" />
+  <img src="https://img.icons8.com/?size=100&id=v5aFhu6h1M57&format=png&color=000000" alt="Wireshark" width="40" height="40" />
+  <img src="https://img.icons8.com/?size=100&id=6oFZ7BIVGUGH&format=png&color=000000" alt="Networking" width="40" height="40" />
+  <img src="https://icon.icepanel.io/Technology/svg/Docker.svg" alt="Docker" width="40" height="40" />
+  <img src="https://icon.icepanel.io/Technology/svg/Ubuntu.svg" alt="Ubuntu" width="40" height="40" />
+  <img src="https://icon.icepanel.io/Technology/svg/GitHub.svg" alt="Github" width="40" height="40" />
+  <img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" alt="MySQL" width="40" height="40" />
+  
+</p>
 
 ---
 
