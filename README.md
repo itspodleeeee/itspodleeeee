@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/1133143606587862044/1136615190279569509/Techstag_Logo_Sample.png" alt="Techstag Logo" width="150" />
+  <img src="https://cdn-icons-png.flaticon.com/128/2092/2092663.png" alt="Techstag Logo" width="150" />
 </p>
 
-<h1 align="center">Hey there, I'm <a href="https://github.com/itspodleeeee" target="_blank">itspodleeeee</a> 👋</h1>
+<h1 align="center">Hi!, <a href="https://github.com/itspodleeeee" target="_blank">itspodleeeee</a> here 👋</h1>
 
 <p align="center">
   <em>“There are only 10 types of people in the world: those who understand binary, and those who don’t.”</em>
