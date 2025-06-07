@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/128/2092/2092663.png" alt="Techstag Logo" width="150" />
+  <img src="https://cdn-icons-png.flaticon.com/128/3975/3975090.png" alt="Techstag Logo" width="150" />
 </p>
 
 <h1 align="center">Hi!, <a href="https://github.com/itspodleeeee" target="_blank">itspodleeeee</a> here 👋</h1>
