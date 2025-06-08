@@ -19,28 +19,59 @@ My goal? Become a skilled and ethical **Cybersecurity Analyst**.
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 🧰 Tech Stack & Tools:
 
+#### 💻 Languages & Scripting
 <p align="left">
   <img src="https://icon.icepanel.io/Technology/svg/Python.svg" alt="Python" width="40" height="40" />
   <img src="https://icon.icepanel.io/Technology/svg/C.svg" alt="C" width="40" height="40" />
   <img src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" alt="C++" width="40" height="40" />
-  <img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://icon.icepanel.io/Technology/svg/PHP.svg" alt="PHP" width="40" height="40" />
   <img src="https://icon.icepanel.io/Technology/svg/Bash.svg" alt="Bash/Shell" width="40" height="40" />
   <img src="https://img.icons8.com/?size=96&id=J6KcaRLsTgpZ&format=png" alt="SQL" width="40" height="40" />
-  <img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" alt="MongoDB" width="40" height="40" />
+</p>
+
+#### 🌐 Web Development
+<p align="left">
   <img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" alt="HTML" width="40" height="40" />
   <img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" alt="CSS" width="40" height="40" />
+  <img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://icon.icepanel.io/Technology/svg/PHP.svg" alt="PHP" width="40" height="40" />
+</p>
+
+#### 🗄️ Databases
+<p align="left">
+  <img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" alt="MongoDB" width="40" height="40" />
+  <img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" alt="MySQL" width="40" height="40" />
+</p>
+
+#### 🐧 Operating Systems
+<p align="left">
   <img src="https://img.icons8.com/?size=100&id=sA3Bx9WPvcNg&format=png&color=000000" alt="Parrot OS Linux" width="40" height="40" />
+  <img src="https://icon.icepanel.io/Technology/svg/Ubuntu.svg" alt="Ubuntu" width="40" height="40" />
+  <img src="https://img.icons8.com/?size=96&id=TuXN3JNUBGOT&format=png" alt="Windows" width="40" height="40" />
+</p>
+
+#### 🛡️ Cybersecurity Tools
+<p align="left">
   <img src="https://img.icons8.com/?size=100&id=9b5wowKIlo9d&format=png&color=000000" alt="Nmap" width="40" height="40" />
   <img src="https://img.icons8.com/?size=100&id=v5aFhu6h1M57&format=png&color=000000" alt="Wireshark" width="40" height="40" />
   <img src="https://img.icons8.com/?size=100&id=6oFZ7BIVGUGH&format=png&color=000000" alt="Networking" width="40" height="40" />
+</p>
+
+#### ⚙️ Platforms & Dev Tools
+<p align="left">
   <img src="https://icon.icepanel.io/Technology/svg/Docker.svg" alt="Docker" width="40" height="40" />
-  <img src="https://icon.icepanel.io/Technology/svg/Ubuntu.svg" alt="Ubuntu" width="40" height="40" />
-  <img src="https://icon.icepanel.io/Technology/svg/GitHub.svg" alt="Github" width="40" height="40" />
-  <img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" alt="MySQL" width="40" height="40" />
-  <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VsCode" width="40" height="40" />
+  <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode" width="40" height="40" />
+</p>
+
+#### 🔧 Version Control
+<p align="left">
+  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" width="40" height="40" />
+  <img src="https://icon.icepanel.io/Technology/svg/GitHub.svg" alt="GitHub" width="40" height="40" />
+</p>
+
+  
+  
   
 </p>
 
