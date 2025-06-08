@@ -40,6 +40,7 @@ My goal? Become a skilled and ethical **Cybersecurity Analyst**.
   <img src="https://icon.icepanel.io/Technology/svg/Ubuntu.svg" alt="Ubuntu" width="40" height="40" />
   <img src="https://icon.icepanel.io/Technology/svg/GitHub.svg" alt="Github" width="40" height="40" />
   <img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" alt="MySQL" width="40" height="40" />
+  <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VsCode" width="40" height="40" />
   
 </p>
 
