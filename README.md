@@ -15,7 +15,7 @@
 I'm a former Computer Science student, now diving deep into **Information Technology** with a focus on **Cybersecurity** and **Networking** at **Mapúa Malayan Digital College**.  
 Even though my college doesn’t offer a CS degree, I’m still pursuing what I love — **finding vulnerabilities**, understanding systems inside-out, and protecting them.  
 I’m passionate about **vulnerability research**, **network defense**, and all the chaotic good things in between.  
-My goal? Become a skilled and ethical **Cybersecurity Analyst**.
+My goal? Become a skilled and ethical **SOC Analyst**.
 
 ---
 
