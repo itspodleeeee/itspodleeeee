@@ -62,6 +62,7 @@ My goal? Become a skilled and ethical **SOC Analyst**.
 <p align="left">
   <img src="https://icon.icepanel.io/Technology/svg/Docker.svg" alt="Docker" width="40" height="40" />
   <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode" width="40" height="40" />
+  <img src="https://vscodium.com/img/codium_cnl.svg" alt="VSCodium" width="40" height="40" />
 </p>
 
 #### 🔧 Version Control
