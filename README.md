@@ -2,7 +2,7 @@
   <img src="https://cdn-icons-png.flaticon.com/128/3975/3975090.png" alt="Techstag Logo" width="150" />
 </p>
 
-<h1 align="center">Hi!, <a href="https://github.com/itspodleeeee" target="_blank">itspodleeeee</a> here 👋</h1>
+<h1 align="center">Hi!, <a href="https://johnwilberthbotin.vercel.app/" target="_blank">itspodleeeee</a> here 👋</h1>
 
 <p align="center">
   <em>“There are only 10 types of people in the world: those who understand binary, and those who don’t.”</em>
