@@ -2,11 +2,11 @@
 
 # John Wilberth B. Botin
 
-**IT Support · Cybersecurity · Full-Stack Development · Digital Content**
+**Founder, Agilion · Systems & Security Engineer · Full-Stack Developer · Applied AI**
 
-BSIT (Network & Cybersecurity) student in the Philippines building secure, practical digital products.
+Building secure full-stack systems, AI-enabled workflows, and practical IT solutions from the Philippines.
 
-[![Animated introduction](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=D4AF37&center=true&vCenter=true&width=750&lines=IT+Support+%7C+Cybersecurity+%7C+Full-Stack;Building+secure%2C+practical+digital+solutions;Founder+of+Agilion)](https://git.io/typing-svg)
+[![Animated introduction](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=D4AF37&center=true&vCenter=true&width=750&lines=Systems+%26+Security+Engineering;Full-Stack+Development+%26+Automation;Applied+AI+%26+Business+Solutions;Founder+of+Agilion)](https://git.io/typing-svg)
 
 [**Portfolio**](https://johnwilberthbotin.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/johnwilberthbotin) · [Email](mailto:contactjohnbotin@gmail.com)
 
@@ -16,9 +16,9 @@ BSIT (Network & Cybersecurity) student in the Philippines building secure, pract
 
 ## About me
 
-I work across IT support, web and business-system development, technical SEO, automation, and digital content. I enjoy taking projects from requirements to launch—building responsive interfaces, integrations, deployment workflows, and handoffs that people can actually use.
+I build and support secure web platforms and business systems by combining full-stack development, technical SEO, automation, and applied AI. I take projects from requirements through launch, including responsive interfaces, API integrations, deployments, production fixes, and client handoff.
 
-I am currently a freelance web and systems developer, the founder of **Agilion**, and a Bachelor of Science in Information Technology student at Mapúa Malayan Digital College specializing in Network & Cybersecurity.
+I am the founder of **Agilion**, a freelance web and systems developer, and a Bachelor of Science in Information Technology student at Mapúa Malayan Digital College specializing in Network & Cybersecurity.
 
 ## What I work with
 
@@ -61,8 +61,8 @@ I founded **Agilion** to build scalable, efficient digital solutions across soft
 - **Featured on GMA's *I Juander***
 - **[Microsoft Office Specialist: Word Associate](https://www.credly.com/badges/e740844a-a342-47e0-8a47-74db220cd37e/public_url)**
 
-## Let's connect
+## Work with me
 
-I am open to entry-level IT support, technical operations, network and cybersecurity internships, and digital content opportunities.
+I help businesses turn ideas and operational problems into reliable web platforms, custom systems, AI-enabled workflows, and practical IT solutions. For project inquiries or collaborations, get in touch.
 
 **[contactjohnbotin@gmail.com](mailto:contactjohnbotin@gmail.com)**
