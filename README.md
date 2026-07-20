@@ -1,108 +1,68 @@
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/128/3975/3975090.png" alt="Techstag Logo" width="150" />
-</p>
+<div align="center">
 
-<h1 align="center">Hi!, <a href="https://johnwilberthbotin.vercel.app/" target="_blank">itspodleeeee</a> here 👋</h1>
+# John Wilberth B. Botin
 
-<p align="center">
-  <em>“There are only 10 types of people in the world: those who understand binary, and those who don’t.”</em>
-</p>
+**IT Support · Cybersecurity · Full-Stack Development · Digital Content**
 
----
+BSIT (Network & Cybersecurity) student in the Philippines building secure, practical digital products.
 
-### 👨‍💻 About Me
+[![Animated introduction](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=D4AF37&center=true&vCenter=true&width=750&lines=IT+Support+%7C+Cybersecurity+%7C+Full-Stack;Building+secure%2C+practical+digital+solutions;Founder+of+Agilion)](https://git.io/typing-svg)
 
-I am a former Computer Science student, now diving deep into **Information Technology** with a focus on **Cybersecurity** and **Networking** at **Mapúa Malayan Digital College**.  
-Even though my college does not offer a CS degree, I am still pursuing what I love — **finding vulnerabilities**, understanding systems inside-out, and protecting them.  
-I am passionate about **vulnerability research**, **network defense**, and all the chaotic good things in between.  
-My goal? Become a skilled and ethical **SOC Analyst**.
+[**Portfolio**](https://johnwilberthbotin.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/johnwilberthbotin) · [Email](mailto:contactjohnbotin@gmail.com)
 
----
+![Profile views](https://komarev.com/ghpvc/?username=itspodleeeee&label=PROFILE+VIEWS&color=d4af37&style=flat-square)
 
-### 🧰 Tech Stack & Tools:
+</div>
 
-#### 💻 Languages & Scripting
-<p align="left">
-  <img src="https://icon.icepanel.io/Technology/svg/Python.svg" alt="Python" width="40" height="40" />
-  <img src="https://icon.icepanel.io/Technology/svg/C.svg" alt="C" width="40" height="40" />
-  <img src="https://icon.icepanel.io/Technology/svg/C%2B%2B-%28CPlusPlus%29.svg" alt="C++" width="40" height="40" />
-  <img src="https://icon.icepanel.io/Technology/svg/Bash.svg" alt="Bash/Shell" width="40" height="40" />
-  <img src="https://img.icons8.com/?size=96&id=J6KcaRLsTgpZ&format=png" alt="SQL" width="40" height="40" />
-</p>
+## About me
 
-#### 🌐 Web Development
-<p align="left">
-  <img src="https://icon.icepanel.io/Technology/svg/HTML5.svg" alt="HTML" width="40" height="40" />
-  <img src="https://icon.icepanel.io/Technology/svg/CSS3.svg" alt="CSS" width="40" height="40" />
-  <img src="https://icon.icepanel.io/Technology/svg/JavaScript.svg" alt="JavaScript" width="40" height="40" />
-  <img src="https://icon.icepanel.io/Technology/svg/PHP.svg" alt="PHP" width="40" height="40" />
-</p>
+I work across IT support, web and business-system development, technical SEO, automation, and digital content. I enjoy taking projects from requirements to launch—building responsive interfaces, integrations, deployment workflows, and handoffs that people can actually use.
 
-#### 🗄️ Databases
-<p align="left">
-  <img src="https://icon.icepanel.io/Technology/svg/MongoDB.svg" alt="MongoDB" width="40" height="40" />
-  <img src="https://icon.icepanel.io/Technology/svg/MySQL.svg" alt="MySQL" width="40" height="40" />
-</p>
+I am currently a freelance web and systems developer, the founder of **Agilion**, and a Bachelor of Science in Information Technology student at Mapúa Malayan Digital College specializing in Network & Cybersecurity.
 
-#### 🐧 Operating Systems
-<p align="left">
-  <img src="https://img.icons8.com/?size=100&id=sA3Bx9WPvcNg&format=png&color=000000" alt="Parrot OS Linux" width="40" height="40" />
-  <img src="https://icon.icepanel.io/Technology/svg/Ubuntu.svg" alt="Ubuntu" width="40" height="40" />
-  <img src="https://img.icons8.com/?size=96&id=TuXN3JNUBGOT&format=png" alt="Windows" width="40" height="40" />
-</p>
-
-#### 🛡️ Cybersecurity Tools
-<p align="left">
-  <img src="https://img.icons8.com/?size=100&id=9b5wowKIlo9d&format=png&color=000000" alt="Nmap" width="40" height="40" />
-  <img src="https://img.icons8.com/?size=100&id=v5aFhu6h1M57&format=png&color=000000" alt="Wireshark" width="40" height="40" />
-  <img src="https://img.icons8.com/?size=100&id=6oFZ7BIVGUGH&format=png&color=000000" alt="Networking" width="40" height="40" />
-</p>
-
-#### ⚙️ Platforms & Dev Tools
-<p align="left">
-  <img src="https://icon.icepanel.io/Technology/svg/Docker.svg" alt="Docker" width="40" height="40" />
-  <img src="https://code.visualstudio.com/assets/images/code-stable.png" alt="VSCode" width="40" height="40" />
-  <img src="https://vscodium.com/img/codium_cnl.svg" alt="VSCodium" width="40" height="40" />
-</p>
-
-#### 🔧 Version Control
-<p align="left">
-  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git" width="40" height="40" />
-  <img src="https://icon.icepanel.io/Technology/svg/GitHub.svg" alt="GitHub" width="40" height="40" />
-</p>
-
-  
-  
-  
-</p>
-
----
-
-### 🔭 Currently Exploring
-
-- 🔐 Penetration Testing (Web & Network)  
-- 🧬 Privilege Escalation & Recon Techniques  
-- 🐞 Bug Bounty Methodologies  
-- 🧠 Malware Analysis & Exploit Development
-
----
-
-### 📊 GitHub Stats
+## What I work with
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itspodleeeee&show_icons=true&hide_title=true&hide=issues&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itspodleeeee&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" alt="Top Languages" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,py,java,c,cpp,nextjs,react,tailwind,nestjs,prisma,postgres,git,github,vercel,cloudflare&amp;perline=8&amp;theme=dark" alt="TypeScript, JavaScript, Python, Java, C, C++, Next.js, React, Tailwind CSS, NestJS, Prisma, PostgreSQL, Git, GitHub, Vercel, and Cloudflare" />
+  </a>
 </p>
 
----
+| Area | Technologies |
+| --- | --- |
+| Languages | TypeScript, JavaScript, Python, Java, C, C++, HTML, CSS |
+| Web & backend | Next.js, React, Tailwind CSS, NestJS, Prisma |
+| Data & platforms | PostgreSQL, GitHub, Vercel, Railway, Cloudflare R2 |
+| Delivery & security | API integrations, JWT sessions, reCAPTCHA, technical SEO, analytics, accessibility |
+| Media & content | Sharp, FFmpeg, Meta Business Suite, Canva |
 
-### 🙅‍♂️ Not Accepting Contacts (For Now)
+## Selected work
 
-> Want to reach out? For now, I’m off-the-grid — but stay tuned 👀
+- **Bayleaf Builders and Realty Corporation** — a responsive full-stack real estate platform with secure tools for listings, inquiries, media, and business content.
+- **Villa Ikarus** — a production-ready resort website with inquiry flows, PHP/USD pricing, AI-assisted guest questions, and technical SEO.
+- **[Tigil Kalat PH](https://github.com/itspodleeeee/Tigil_Kalat_PH)** — an accessible educational website promoting environmental awareness.
+- **Xavier Filipino Version** — a viral digital-content project later featured on GMA's *I Juander*.
 
----
+Some client work is not listed publicly because it is covered by confidentiality agreements. More details are available in my [project portfolio](https://johnwilberthbotin.vercel.app/#projects).
+
+## Agilion
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0f0f0f&height=100&section=footer" />
+  <img src="./assets/agilion.png" alt="Agilion Arkon brand identity and logo system" width="100%" />
 </p>
+
+I founded **Agilion** to build scalable, efficient digital solutions across software and web development, business automation, and IT services—with an emphasis on reliability, precision, and long-term value.
+
+## Experience & recognition
+
+- **Freelance Web & Systems Developer** — 2025–Present
+- **Content Creator & Social Media Manager** — 2022–Present
+- **MMDC Exemplary Learner Output (ELO) Nominee**
+- **Featured on GMA's *I Juander***
+- **[Microsoft Office Specialist: Word Associate](https://www.credly.com/badges/e740844a-a342-47e0-8a47-74db220cd37e/public_url)**
+
+## Let's connect
+
+I am open to entry-level IT support, technical operations, network and cybersecurity internships, and digital content opportunities.
+
+**[contactjohnbotin@gmail.com](mailto:contactjohnbotin@gmail.com)**
